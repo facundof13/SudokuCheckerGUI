@@ -1,0 +1,9 @@
+C:\Users\FacundoPC\Dropbox\projects\c#\SudokuCheckerGUI\SudokuCheckerGUI\bin\Debug\SudokuCheckerGUI.exe.config
+C:\Users\FacundoPC\Dropbox\projects\c#\SudokuCheckerGUI\SudokuCheckerGUI\bin\Debug\SudokuCheckerGUI.exe
+C:\Users\FacundoPC\Dropbox\projects\c#\SudokuCheckerGUI\SudokuCheckerGUI\bin\Debug\SudokuCheckerGUI.pdb
+C:\Users\FacundoPC\Dropbox\projects\c#\SudokuCheckerGUI\SudokuCheckerGUI\obj\Debug\SudokuCheckerGUI.csprojResolveAssemblyReference.cache
+C:\Users\FacundoPC\Dropbox\projects\c#\SudokuCheckerGUI\SudokuCheckerGUI\obj\Debug\SudokuCheckerGUI.Form1.resources
+C:\Users\FacundoPC\Dropbox\projects\c#\SudokuCheckerGUI\SudokuCheckerGUI\obj\Debug\SudokuCheckerGUI.Properties.Resources.resources
+C:\Users\FacundoPC\Dropbox\projects\c#\SudokuCheckerGUI\SudokuCheckerGUI\obj\Debug\SudokuCheckerGUI.csproj.GenerateResource.Cache
+C:\Users\FacundoPC\Dropbox\projects\c#\SudokuCheckerGUI\SudokuCheckerGUI\obj\Debug\SudokuCheckerGUI.exe
+C:\Users\FacundoPC\Dropbox\projects\c#\SudokuCheckerGUI\SudokuCheckerGUI\obj\Debug\SudokuCheckerGUI.pdb
